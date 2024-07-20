@@ -1,4 +1,4 @@
-# Básico de Redes de Computadores
+# Redes de Computadores na prática!
 💻 Neste repositório você pode conferir minha evolução nos estudos de Redes, por se tratar de uma área muito ampla onde podemos ir desde configurações simples até redes mais complexas. Buscando o conhecimento desde a teoria até a prática, a teoria é muito
 importante pois nela observamos o papel de cada protocolo, de cada equipamento dentro de Redes, para assim, quando aplicado na prática se torne algo mais fácil de ser aplicado. 
 
